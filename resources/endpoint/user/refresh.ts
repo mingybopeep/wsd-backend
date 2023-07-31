@@ -27,11 +27,11 @@ export const handler = async (
       return makeRes("POST", "NOT_FOUND", 404);
     }
 
-    const payload = JSON.stringify({
+    const payload = {
       token: generateToken(found.email, username, found.id),
       username: found.username,
       userId: found.id,
-    });
+    };
 
     return makeRes("POST", payload, 200);
   } catch (e) {
