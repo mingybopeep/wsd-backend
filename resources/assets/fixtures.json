@@ -1,0 +1,298 @@
+[
+  {
+    "fixture_id": "13815700",
+    "start_time": "2023-07-13 12:30:00+00",
+    "country_name": "International",
+    "competition": "AFF Women's Championship U19",
+    "home": "Indonesia U19",
+    "away": "Thailand U19"
+  },
+  {
+    "fixture_id": "13565378",
+    "start_time": "2023-07-13 12:30:00+00",
+    "country_name": "Africa",
+    "competition": "Women's Olympic Qualifying CAF",
+    "home": "Ethiopia",
+    "away": "Chad"
+  },
+  {
+    "fixture_id": "13565372",
+    "start_time": "2023-07-13 13:00:00+00",
+    "country_name": "Africa",
+    "competition": "Women's Olympic Qualifying CAF",
+    "home": "Namibia",
+    "away": "Equatorial Guinea"
+  },
+  {
+    "fixture_id": "13808299",
+    "start_time": "2023-07-13 13:00:00+00",
+    "country_name": "Brazil",
+    "competition": "Copa do Brasil U20",
+    "home": "Canto do Rio U20",
+    "away": "Nova Cidade U20"
+  },
+  {
+    "fixture_id": "13815694",
+    "start_time": "2023-07-13 13:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Primera Nacional Reserves",
+    "home": "Nueva Chicago II",
+    "away": "CA Atlanta II"
+  },
+  {
+    "fixture_id": "13815693",
+    "start_time": "2023-07-13 13:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Primera Nacional Reserves",
+    "home": "Deportivo Moron II",
+    "away": "Tristan Suarez II"
+  },
+  {
+    "fixture_id": "13819817",
+    "start_time": "2023-07-13 13:00:00+00",
+    "country_name": "Europe",
+    "competition": "Club Friendlies",
+    "home": "Sivasspor",
+    "away": "Istanbulspor"
+  },
+  {
+    "fixture_id": "13749269",
+    "start_time": "2023-07-13 13:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Prim B Metro Reserves",
+    "home": "Villa San Carlos II",
+    "away": "San Miguel II"
+  },
+  {
+    "fixture_id": "12911483",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Iceland",
+    "competition": "3. Deild",
+    "home": "KFG Gardabaer",
+    "away": "Ellidi"
+  },
+  {
+    "fixture_id": "13050711",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Reserve League",
+    "home": "San Lorenzo II",
+    "away": "Belgrano Cordoba II"
+  },
+  {
+    "fixture_id": "13050708",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Reserve League",
+    "home": "Platense II",
+    "away": "Union Santa Fe II"
+  },
+  {
+    "fixture_id": "13050724",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Reserve League",
+    "home": "Banfield II",
+    "away": "Lanus II"
+  },
+  {
+    "fixture_id": "13050726",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Reserve League",
+    "home": "Estudiantes LP II",
+    "away": "River Plate II"
+  },
+  {
+    "fixture_id": "13264203",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Kazakhstan",
+    "competition": "1. Division",
+    "home": "Aktobe Jas",
+    "away": "Akzhayik"
+  },
+  {
+    "fixture_id": "13800160",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Europe",
+    "competition": "Club Friendlies",
+    "home": "Konyaspor",
+    "away": "Samsunspor"
+  },
+  {
+    "fixture_id": "13737682",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "International",
+    "competition": "Club Friendlies",
+    "home": "Dynamo Dresden",
+    "away": "Paderborn"
+  },
+  {
+    "fixture_id": "13820996",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Primera Nacional Reserves",
+    "home": "Defensores Unidos II",
+    "away": "Villa Dalmine II"
+  },
+  {
+    "fixture_id": "13664057",
+    "start_time": "2023-07-13 14:00:00+00",
+    "country_name": "International",
+    "competition": "Club Friendlies",
+    "home": "Dnipro-1",
+    "away": "Rukh Vynnyky"
+  },
+  {
+    "fixture_id": "13661322",
+    "start_time": "2023-07-13 14:30:00+00",
+    "country_name": "International",
+    "competition": "Club Friendlies",
+    "home": "Vozdovac",
+    "away": "Novi Pazar"
+  },
+  {
+    "fixture_id": "13824319",
+    "start_time": "2023-07-13 14:30:00+00",
+    "country_name": "Europe",
+    "competition": "Club Friendlies",
+    "home": "Olimpic Zarnesti",
+    "away": "Unirea Slobozia"
+  },
+  {
+    "fixture_id": "13784352",
+    "start_time": "2023-07-13 14:30:00+00",
+    "country_name": "International",
+    "competition": "Club Friendlies",
+    "home": "Ural",
+    "away": "Neftchi Fargona"
+  },
+  {
+    "fixture_id": "13662565",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "Europe",
+    "competition": "UEFA Europa Conference League",
+    "home": "Ararat-Armenia",
+    "away": "KS Egnatia"
+  },
+  {
+    "fixture_id": "13662605",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "Europe",
+    "competition": "UEFA Europa Conference League",
+    "home": "Inter Club d'Escaldes",
+    "away": "Vikingur"
+  },
+  {
+    "fixture_id": "13632035",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "Mexico",
+    "competition": "U18 League",
+    "home": "Santos Laguna U18",
+    "away": "Atlas U18"
+  },
+  {
+    "fixture_id": "13689644",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "International",
+    "competition": "Club Friendlies",
+    "home": "AEK Athens",
+    "away": "Shakhtar Donetsk"
+  },
+  {
+    "fixture_id": "13662525",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "Europe",
+    "competition": "UEFA Europa Conference League",
+    "home": "Tobol Kostanay",
+    "away": "Honka"
+  },
+  {
+    "fixture_id": "13718667",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "Mexico",
+    "competition": "U23 League",
+    "home": "Guadalajara Chivas U23",
+    "away": "Necaxa U23"
+  },
+  {
+    "fixture_id": "13611026",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "International",
+    "competition": "Club Friendlies",
+    "home": "FC Stade LS Ouchy",
+    "away": "FC Paris"
+  },
+  {
+    "fixture_id": "13662571",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "Europe",
+    "competition": "UEFA Europa Conference League",
+    "home": "Pyunik Yerevan",
+    "away": "Trans Narva"
+  },
+  {
+    "fixture_id": "13782390",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "International",
+    "competition": "Friendlies Women",
+    "home": "Georgia",
+    "away": "Armenia"
+  },
+  {
+    "fixture_id": "13777376",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "International",
+    "competition": "Youth Friendlies",
+    "home": "Ivory Coast U20",
+    "away": "Ghana U20"
+  },
+  {
+    "fixture_id": "13777377",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "International",
+    "competition": "Youth Friendlies",
+    "home": "Niger U20",
+    "away": "Burkina Faso U20"
+  },
+  {
+    "fixture_id": "13749268",
+    "start_time": "2023-07-13 15:00:00+00",
+    "country_name": "Argentina",
+    "competition": "Prim B Metro Reserves",
+    "home": "Argentino Quilmes II",
+    "away": "Fenix II"
+  },
+  {
+    "fixture_id": "13662515",
+    "start_time": "2023-07-13 15:30:00+00",
+    "country_name": "Europe",
+    "competition": "UEFA Europa Conference League",
+    "home": "Zilina",
+    "away": "Levadia Tallinn"
+  },
+  {
+    "fixture_id": "13687791",
+    "start_time": "2023-07-13 15:30:00+00",
+    "country_name": "International",
+    "competition": "Club Friendlies",
+    "home": "TSC Backa Topola",
+    "away": "Kisvarda"
+  },
+  {
+    "fixture_id": "13662322",
+    "start_time": "2023-07-13 15:30:00+00",
+    "country_name": "Europe",
+    "competition": "UEFA Europa Conference League",
+    "home": "Makedonija Gjorce Petrov",
+    "away": "Rigas Futbola Skola"
+  },
+  {
+    "fixture_id": "13826086",
+    "start_time": "2023-07-13 15:30:00+00",
+    "country_name": "Europe",
+    "competition": "Club Friendlies",
+    "home": "Tomislav",
+    "away": "Igman Konjic"
+  }
+]
